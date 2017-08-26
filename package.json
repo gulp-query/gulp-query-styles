@@ -1,6 +1,6 @@
 {
   "name": "gulp-query-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin provides automatic source maps, copy, combine and rename CSS, autoprefixing and minification.",
   "main": "index.js",
   "author": "Marat Nuriev",

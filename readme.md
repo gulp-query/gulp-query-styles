@@ -1,4 +1,4 @@
-## gulp-query-scss
+## gulp-query-styles
 Plugin for [gulp-query](https://github.com/gulp-query/gulp-query)
 
 Uses [cssnano](http://cssnano.co/) with autoprefixer for optimization
